@@ -1,0 +1,20 @@
+python est un language multi-paradigmes
+-> supporte la programmation 
+        -> impérative
+        -> fonctionnelle
+        -> orienté objet
+
+            -> permet de choisir le style de code le plus adapté
+
+La POO : 
+paradigmes d'objet,
+    -> créé a partir de plan (nommé Classes)
+    -> intéragisse pour produire des comportement
+
+avantages de la POO :
+
+-> code structuré
+-> classes réutillisable
+-> moduralité ( organisation des objets indépendant)
+-> Encapsulation (protection des données)
+

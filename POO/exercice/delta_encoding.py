@@ -14,7 +14,7 @@ def delta_encoding(valeurs):
         diff = valeurs[i] - valeurs[i - 1]
         differences.append(diff)
     
-    return (premiere_valeur, differences)
+    return {premiere_valeur, differences}
 
 # tests
 

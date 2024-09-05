@@ -1,11 +1,14 @@
 # à compléter ici
 def occurrence_caracteres(phrase):
     occurrences = {}
+        
     for caractere in phrase:
         if caractere in occurrences:
             occurrences[caractere] += 1
         else:
             occurrences[caractere] = 1
+    if not occurrences :
+        print("le dictionnaire est vide")
     return occurrences
 
 # tests
