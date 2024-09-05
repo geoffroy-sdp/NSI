@@ -1,3 +1,5 @@
+synthèse: 
+
 python est un language multi-paradigmes
 -> supporte la programmation 
         -> impérative
@@ -9,12 +11,38 @@ python est un language multi-paradigmes
 La POO : 
 paradigmes d'objet,
     -> créé a partir de plan (nommé Classes)
-    -> intéragisse pour produire des comportement
+    -> interagisse pour produire des comportement
 
 avantages de la POO :
 
 -> code structuré
--> classes réutillisable
+-> classes réutilisable
 -> moduralité ( organisation des objets indépendant)
 -> Encapsulation (protection des données)
 
+2) concepts de base : 
+
+objet : 
+
+-> entité nommé avec 
+    -> attribut (état/données)
+    -> et méthodes (action/comportement)
+
+Class : 
+-> plan de construction des objets
+
+2.1 : Différence avec la programmation procédurale :
+Regroupement des données et fonctions dans des objets
+Meilleure modélisation des entités complexes
+
+2.2 Vocabulaire dédié, syntaxe en python :
+
+-> définition de classe avec "class"
+-> méthode spéciale '__init__' pour initialisation
+-> utilisation de 'self' pour référencer l'objet
+-> Accès aux attribut et méthodes avec la notation pointé (objet.attribut)
+
+-> Attributs = les variables d'une classe
+-> Méthodes = les fonctions d'une classe
+-> instanciation = la création exécutée automatiquement lors de l'instanciation d'un objet
+-> On dit que les attributs et les méthodes sont encapsulés dans la classe
