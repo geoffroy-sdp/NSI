@@ -1,0 +1,6 @@
+
+1 : Alan Kay est considéré comme le père de la programmation orientée objet. Il a développé ce concept dans les années 1970.
+
+2 : Le langage de programmation Smalltalk a introduit pour la première fois le concept de programmation orientée objet.
+
+3 : La décennie du triomphe de la programmation orientée objet est les années 1990, lorsque le concept est devenu largement adopté et popularisé.
